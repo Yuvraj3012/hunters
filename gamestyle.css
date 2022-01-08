@@ -1,0 +1,62 @@
+.homebutton1 {
+    background-color: #e7e7e7; color: black;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .homebutton1 {
+    transition-duration: 0.4s;
+  }
+  
+  .homebutton1:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+
+  .homebutton1 {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  }
+
+
+  .blogbutton1 {
+    background-color: #e7e7e7; color: black;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  .blogbutton1 {
+    transition-duration: 0.4s;
+  }
+  
+  .blogbutton1:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+
+  .blogbutton1 {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  }
+
+
+
+.gameheader{
+
+                                                                                                                        
+    display: flex;
+    justify-content: space-between;
+}
+
+.gamegrid{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+ 
+}
